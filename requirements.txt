@@ -1,0 +1,6 @@
+azure-functions
+azure-storage-blob
+google-cloud-storage
+google-auth
+msal
+requests
