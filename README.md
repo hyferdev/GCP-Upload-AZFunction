@@ -83,7 +83,7 @@ The function executes the following workflow on its schedule:
 -   **Key Python Libraries:**
     -   `azure-storage-blob`
     -   `google-cloud-storage`
-    -   `msal` (Microsoft Authentication Library for Graph API)
+    -   `msal`
     -   `requests`
 
 ---
